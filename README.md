@@ -1,4 +1,4 @@
-# Analysis-of-High-speed-Hybrid-Full-Adder-With-STT_MTJ
+# Analysis-of-Low Power-High-speed-Full-Adder-With-STT_MTJ
 # Abstract
 This paper presents the design and analysis of a high-speed hybrid full adder incorporating Spin-Transfer Torque Magnetic Tunnel Junctions (STT-MTJs). With the increasing demand for low-power, high-performance circuits in modern computing, STT-MTJs have emerged as a promising non-volatile storage element due to their fast switching capabilities and low power consumption. The proposed hybrid full adder leverages both CMOS and STT-MTJ technologies to achieve an optimal trade-off between speed, power efficiency, and area overhead. The circuit is designed to enhance switching speed while minimizing delay and leakage power, making it suitable for next-generation arithmetic processing units. Simulation results demonstrate significant improvements in performance metrics compared to conventional CMOS-only adders, highlighting the potential of hybrid architectures in advanced computing systems.
 # Introduction
